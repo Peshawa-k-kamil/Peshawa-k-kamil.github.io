@@ -20,16 +20,18 @@ const RESOURCES = {
 "assets/assets/images/trekking.jpg": "283eae13ae9587874b93fed5c9b4a118",
 "assets/FontManifest.json": "ba279fcf60aeec0c2faa1ec9253b14d3",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "5094b068e6dde274dc3d0119bd9fb301",
+"assets/NOTICES": "8fd2aac13df6ecef4c69aa4e8ddbd7f2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cc9e18f4509e9c5e94977b5a23c775a2",
-"/": "cc9e18f4509e9c5e94977b5a23c775a2",
-"main.dart.js": "4a469e12ac4b1738463779c48e4defef",
-"manifest.json": "48024f1dd0cdc5d45d64e83070545805",
-"version.json": "3045a0560582256a230d8195b99dabee"
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"index.html": "4bb1168907c2237f8d801db3c6c67ccf",
+"/": "4bb1168907c2237f8d801db3c6c67ccf",
+"main.dart.js": "02a06f52cf431d342c7f729da588df7e",
+"manifest.json": "222d22e9730a5020e3cc3691d302e13c",
+"version.json": "a46c16b7d4e531e94ee8f53adf199d5f"
 };
 
 // The application shell files that are downloaded before a service worker can
