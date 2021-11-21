@@ -3,35 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cb8e43e56fddd8818bc6b9e3835de5ca",
-"assets/assets/fonts/Rudaw-Bold.ttf": "f19f6dc33473669d8e24a6a0c3796299",
-"assets/assets/fonts/Rudaw-Regular.ttf": "a18d5685fac011f6fa82f46d62982c7c",
-"assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
-"assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
-"assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
-"assets/assets/images/asia.jpg": "bbcf97c1be29e77360e8407b7e2eaa05",
-"assets/assets/images/australia.jpg": "6170e8a703652c6b814dca7020050086",
-"assets/assets/images/cover.jpg": "e1e4b2e46b8d6eabb7330afb0c0d30ff",
-"assets/assets/images/europe.jpg": "29a721b78efc7f928faf042c88806468",
-"assets/assets/images/google_logo.png": "b75aecaf9e70a9b1760497e33bcd6db1",
-"assets/assets/images/north_america.jpg": "867d729d34a03bf38136bd45954ec218",
-"assets/assets/images/photography.jpeg": "b0d14d6d4a94d33404a7df1344e7533b",
-"assets/assets/images/south_america.jpg": "1920c86e11a06921b339f00ff1d0ddea",
-"assets/assets/images/trekking.jpg": "283eae13ae9587874b93fed5c9b4a118",
-"assets/FontManifest.json": "ba279fcf60aeec0c2faa1ec9253b14d3",
+  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "b91ed12b486bb26aa2a4e8b9bab11511",
+"assets/NOTICES": "eba6e0f5e540cc31524a04c9f32dae71",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "26efbad2d626a0f87d680693066a41b3",
-"/": "26efbad2d626a0f87d680693066a41b3",
-"main.dart.js": "7b4a8b356e18d1ba216a913fc104b429",
-"manifest.json": "222d22e9730a5020e3cc3691d302e13c",
-"version.json": "a46c16b7d4e531e94ee8f53adf199d5f"
+"index.html": "bdb0c987d4203763f9abd937d25b3611",
+"/": "bdb0c987d4203763f9abd937d25b3611",
+"main.dart.js": "8b81f99698409f101b7390db9940a8c2",
+"manifest.json": "9344cf655cdf8adc7e8ff7080aacfe15",
+"version.json": "3bd8d83de67c7b1dbdc563998c5c85be"
 };
 
 // The application shell files that are downloaded before a service worker can
