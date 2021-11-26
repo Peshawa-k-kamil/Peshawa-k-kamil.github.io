@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cb8e43e56fddd8818bc6b9e3835de5ca",
+  "assets/AssetManifest.json": "dbc24599d0d76e6afcc3c1385886afeb",
 "assets/assets/fonts/Rudaw-Bold.ttf": "f19f6dc33473669d8e24a6a0c3796299",
 "assets/assets/fonts/Rudaw-Regular.ttf": "a18d5685fac011f6fa82f46d62982c7c",
 "assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
@@ -20,16 +20,18 @@ const RESOURCES = {
 "assets/assets/images/trekking.jpg": "283eae13ae9587874b93fed5c9b4a118",
 "assets/FontManifest.json": "ba279fcf60aeec0c2faa1ec9253b14d3",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "0228b7cf431489aad833b84c2d7c8ead",
+"assets/NOTICES": "e38edb6c11c278289ee4ade4b5ad1f4b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "22558a6b5abb116d4d09c83930d92564",
-"/": "22558a6b5abb116d4d09c83930d92564",
-"main.dart.js": "6d811b528c64c27608338985bca68dc5",
+"index.html": "5d29b9cda75388b5492b9fe8dcff6638",
+"/": "5d29b9cda75388b5492b9fe8dcff6638",
+"main.dart.js": "ac13e474d14dafc09b0ff584dcb6241a",
 "manifest.json": "222d22e9730a5020e3cc3691d302e13c",
 "version.json": "a46c16b7d4e531e94ee8f53adf199d5f"
 };
