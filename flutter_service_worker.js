@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c076ff1d7d06c3d8a5d999d44384bb7e",
+  "assets/AssetManifest.json": "607c669916b1b1c786b573985ddcc732",
 "assets/assets/fonts/Rudaw-Bold.ttf": "f19f6dc33473669d8e24a6a0c3796299",
 "assets/assets/fonts/Rudaw-Regular.ttf": "a18d5685fac011f6fa82f46d62982c7c",
 "assets/assets/images/111.png": "721e2ad1bb941624cc6b4d24f28c07af",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
 "assets/assets/images/asia.jpg": "bbcf97c1be29e77360e8407b7e2eaa05",
 "assets/assets/images/australia.jpg": "6170e8a703652c6b814dca7020050086",
+"assets/assets/images/boxanman-logo.png": "8afdcac2a0a2b422af1a55f1094b2987",
 "assets/assets/images/cover.jpg": "e1e4b2e46b8d6eabb7330afb0c0d30ff",
 "assets/assets/images/europe.jpg": "29a721b78efc7f928faf042c88806468",
 "assets/assets/images/google_logo.png": "b75aecaf9e70a9b1760497e33bcd6db1",
@@ -32,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7ce85b5a386525e0038acd40edf3a5be",
-"/": "7ce85b5a386525e0038acd40edf3a5be",
-"main.dart.js": "681130a7d39ad8dd55e617232e49f70c",
+"index.html": "2fc2ba5e18467d221ae4dfc007a4faa5",
+"/": "2fc2ba5e18467d221ae4dfc007a4faa5",
+"main.dart.js": "e00cf49b1b0e9a2c808f5322546be2d7",
 "manifest.json": "222d22e9730a5020e3cc3691d302e13c",
 "version.json": "a46c16b7d4e531e94ee8f53adf199d5f"
 };
