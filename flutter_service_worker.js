@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "dbc24599d0d76e6afcc3c1385886afeb",
+  "assets/AssetManifest.json": "c076ff1d7d06c3d8a5d999d44384bb7e",
 "assets/assets/fonts/Rudaw-Bold.ttf": "f19f6dc33473669d8e24a6a0c3796299",
 "assets/assets/fonts/Rudaw-Regular.ttf": "a18d5685fac011f6fa82f46d62982c7c",
+"assets/assets/images/111.png": "721e2ad1bb941624cc6b4d24f28c07af",
 "assets/assets/images/africa.jpg": "27fc2c6667bd5bd7bba8117fafe28d86",
 "assets/assets/images/animals.jpg": "2e218a94e7842a946d772082ac8c5590",
 "assets/assets/images/antarctica.jpg": "71e86242fca831839833d1caa23f107e",
@@ -14,6 +15,8 @@ const RESOURCES = {
 "assets/assets/images/cover.jpg": "e1e4b2e46b8d6eabb7330afb0c0d30ff",
 "assets/assets/images/europe.jpg": "29a721b78efc7f928faf042c88806468",
 "assets/assets/images/google_logo.png": "b75aecaf9e70a9b1760497e33bcd6db1",
+"assets/assets/images/idea-logo-50.png": "edbbc665fe605f586fb38d40fcb74652",
+"assets/assets/images/idea-logo.png": "446226ce311ef0a46f56ed7f96c6d01e",
 "assets/assets/images/north_america.jpg": "867d729d34a03bf38136bd45954ec218",
 "assets/assets/images/photography.jpeg": "b0d14d6d4a94d33404a7df1344e7533b",
 "assets/assets/images/south_america.jpg": "1920c86e11a06921b339f00ff1d0ddea",
@@ -29,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0286216f1c64e397c4a0c8adde16a30d",
-"/": "0286216f1c64e397c4a0c8adde16a30d",
-"main.dart.js": "34d29902172da4dae9fb9670c92f3ad9",
+"index.html": "7ce85b5a386525e0038acd40edf3a5be",
+"/": "7ce85b5a386525e0038acd40edf3a5be",
+"main.dart.js": "681130a7d39ad8dd55e617232e49f70c",
 "manifest.json": "222d22e9730a5020e3cc3691d302e13c",
 "version.json": "a46c16b7d4e531e94ee8f53adf199d5f"
 };
