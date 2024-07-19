@@ -58956,7 +58956,7 @@ s($,"amm","aad",()=>A.ON(A.bt([B.fR],t.x)))
 s($,"amQ","aam",()=>new A.QD(A.v(t.N,A.a4("a3<bC?>?(bC?)"))))
 s($,"ajW","a8K",()=>new A.K6(A.aaP()))
 s($,"ajP","a8I",()=>{var q=null,p=t.z
-return A.a([A.MT(q,q,new A.xR(),B.fF,B.fG,B.fC,q,B.a7,q,!1,q,!0,q,!0,B.fD,"/home",!0,new A.IM(),q,q,q,!0,q,!0,q,q,q,q,p),A.MT(q,q,new A.zF(),B.fF,B.fG,B.fC,q,B.a7,q,!1,q,!0,q,!0,B.fD,"/product-detail",!0,new A.IN(),q,q,q,!0,q,!0,q,q,q,q,p)],t.Ey)})
+return A.a([A.MT(q,q,new A.xR(),B.fF,B.fG,B.fC,q,B.a7,q,!1,q,!0,q,!0,B.fD,"/",!0,new A.IM(),q,q,q,!0,q,!0,q,q,q,q,p),A.MT(q,q,new A.zF(),B.fF,B.fG,B.fC,q,B.a7,q,!1,q,!0,q,!0,B.fD,"/product-detail",!0,new A.IN(),q,q,q,!0,q,!0,q,q,q,q,p)],t.Ey)})
 s($,"akp","a8Z",()=>{var q=t.ny
 return new A.yD(A.a([],q),A.a([],q),A.ry(null,!1,t.z))})
 s($,"aks","a01",()=>A.a4d())
