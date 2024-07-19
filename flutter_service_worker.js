@@ -7,8 +7,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "a5f7e84556635d14afd90809c2e4e7fd",
-"assets/NOTICES": "ad401e5f82ba82513be34d9025c1b17a",
+"assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
+"assets/NOTICES": "47ac0e48cbeaab4105dbb01ac6ab0971",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "738255d00768497e86aa4ca510cce1e1",
@@ -23,16 +23,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "0f755e09308ed8cb23e680d3b7e22c85",
+"flutter_bootstrap.js": "ec147aee81d2608e149be184e2ff18f2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c47993a7831e1dcaac55657358893cf6",
-"/": "c47993a7831e1dcaac55657358893cf6",
-"main.dart.js": "c0e0feec1178f13a397b3eec50b2e150",
-"manifest.json": "8b4573cdd5c20d63040a8a8b1b02b34a",
-"version.json": "f7f27893ee7d9b19f2e9d134ee4e158f"};
+"index.html": "5c2a2e2b48c8ddd9788f1c65986060b1",
+"/": "5c2a2e2b48c8ddd9788f1c65986060b1",
+"main.dart.js": "482de04173f1c717864083a5e849c5cf",
+"manifest.json": "d3982cfb269f4f4157d7b157c3618d0e",
+"version.json": "44eac1d9331fa6a6bb401bc1f6ecd93a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
